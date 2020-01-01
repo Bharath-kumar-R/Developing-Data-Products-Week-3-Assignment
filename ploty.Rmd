@@ -1,3 +1,13 @@
+---
+output:
+  html_document: default
+  word_document: default
+---
+#Developing Data Products - Week 3 Assignment
+##Bharath Kumar R
+##1-01-2020
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE, echo = FALSE, 
